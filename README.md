@@ -4,7 +4,7 @@
 
 ## Status
 
-[![Generic badge](https://img.shields.io/badge/Status-Coding!-yellow.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Status-Finished!-green.svg)](https://shields.io/)
 
 Nesse desafio, você deve criar uma aplicação para continuar treinando o que você aprendeu até agora no Node.js junto ao TypeScript, utilizando o conceito de models, repositories e services!
 
