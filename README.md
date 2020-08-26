@@ -12,4 +12,6 @@ Essa será uma aplicação para armazenar transações financeiras de entrada e 
 
 ## Template
 
+[Instrução do Desafio](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-nodejs)
+
 [Desafio](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-nodejs)
